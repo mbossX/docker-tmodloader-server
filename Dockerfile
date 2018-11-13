@@ -1,5 +1,5 @@
 # mysql with centos6
-FROM daocloud.io/library/centos:centos6
+FROM daocloud.io/library/centos:centos7
 LABEL author="JiYun Tech Team <mboss0@163.com>"
 
 ADD ./start.sh /start.sh
